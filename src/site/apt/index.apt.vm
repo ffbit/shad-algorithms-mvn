@@ -1,0 +1,11 @@
+  ------
+  Introduction
+  ------
+  Dmytro Chyzhykov
+  ------
+  2014-09-18
+  ------
+
+${project.name}
+
+  {{{./checkstyle.html}Checkstyle Report on coding style conventions.}}
